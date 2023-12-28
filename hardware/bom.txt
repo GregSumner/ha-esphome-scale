@@ -1,0 +1,4 @@
+2x 10kg load cells + hx711 amps (12.5mm x 12.5mm x 75mm OR 80mm) e.g. https://www.aliexpress.com/item/33046037411.html 
+1x ESP-WROOM-32 e.g. https://www.aliexpress.com/item/1005002611857804.html
+~500g PETG filament
+4x M4x20 CSK screws
