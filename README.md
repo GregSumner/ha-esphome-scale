@@ -3,7 +3,8 @@ STLs and ESPHome config for a scale intended to sit in front of my cat's food bo
 
 ![alt text](https://github.com/GregSumner/ha-esphome-scale/assets/4370367/615ba12f-f403-499a-8fef-8704f8d469ab)![alt text](https://github.com/GregSumner/ha-esphome-scale/assets/4370367/d5b47529-a8ce-494b-b1b4-44e3d2ebc74e)![alt text](https://github.com/GregSumner/ha-esphome-scale/assets/4370367/35d48c10-0486-4afc-9462-76ca81e623f7)
 
-(220mm x 220mm x 40mm)
+Size: 220mm x 220mm x 40mm.
+Load: Has 2x 10kg load cells, but is more limited by the cantilever platform. It works for a 4kg cat at least.
 
 
 I printed this with supports in the load cell holes, it resulted in quite a lot of support-unpicking in front of the TV, but I can't print bridges reliably. The load cell holes were designed at 12.9mm. Off of my printer my calipers said the result was 12.6mm and that resulted in a tight push fit that practically didn't need screws. If your printer under-prints by any more you'll struggle to insert the load cells. This was designed for an eBay load cell that was 12.5mm x 12.5mm x 80mm, but I didn't order additional ones carefully from Aliexpress and they were 70mm long and M4 tapped on both sides (rather than M5 on one side) - I've used the 70mm ones without adjusting the design and only using one screw hole and it's all turned out alright.
